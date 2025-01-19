@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @taloncodes...
-- 🌱 MSc Computer Science, BA Electronic Music Production
-- 📫 How to reach me -> talonpouliot@gmail.com :-)
+- 📫 How to reach me -> talon@developmental.pro
